@@ -1,4 +1,4 @@
-              EV Battery Mileage Prediction
+## EV Battery Mileage Prediction
 ![Logo](https://static.vecteezy.com/system/resources/previews/008/070/602/original/electric-eco-city-car-with-plug-logo-illustration-template-free-vector.jpg)
 
 
